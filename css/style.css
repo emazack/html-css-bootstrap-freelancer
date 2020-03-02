@@ -7,7 +7,11 @@
 
 [class*='col-']{
   border: 1px solid red;
-  height: 90px;;
+  height: 80px;
+}
+
+img{
+  max-width: 350px;
 }
 
 /* DEBUG:  */
