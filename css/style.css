@@ -5,9 +5,9 @@
   background-color: lightgrey;
 }
 
-/* [class*='col-']{
-  border: 1px solid black;
-  background-color:
-} */
+[class*='col-']{
+  border: 1px solid red;
+  height: 90px;;
+}
 
 /* DEBUG:  */
