@@ -1,5 +1,13 @@
 /* DEBUG:  */
-*{
-  background-color: green;
+.container{
+  border: 1px solid black;
+  height: 400px;
+  background-color: lightgrey;
 }
+
+/* [class*='col-']{
+  border: 1px solid black;
+  background-color:
+} */
+
 /* DEBUG:  */
