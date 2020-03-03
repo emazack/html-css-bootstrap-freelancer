@@ -26,6 +26,10 @@ img{
   max-width: 30%;
 }
 
+.imgportfolio{
+  padding: 10px 10px 10px 10px;
+}
+
 .centratura{
   text-align: center;
 }
