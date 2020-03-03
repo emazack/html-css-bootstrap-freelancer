@@ -1,18 +1,18 @@
-
-/* .container-fluid{
-  border: 1px solid black;
-  height: 80vh;
+/* 
+.container{
+  border: 1px solid red;
   background-color: lightgrey;
-}
+} */
+
+/* .row{
+  border: 1px solid blue;
+  height: 80px;
+} */
 
 [class*='col-']{
-  border: 1px solid red;
-  height: 80px;
+  border: 2px solid green;
+  height: 50px;
 }
-
-img{
-  width: 33%;
-} */
 
 
 
